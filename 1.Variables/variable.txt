@@ -1,0 +1,28 @@
+***************************************************************************************************************************************************************      
+        Q1.What is a variable?
+
+        -> A variable is a container that stores a value. This is very similar to the container
+           use to store rice, water and oats etc...(Treat this as an analogy).
+
+        ->The value of a javascript variable can be changed during the execution of a program.
+
+        -> Syntax:-
+                    1> var a = 7;
+                    2> let a = 10;
+        
+        -> a - Identifiers
+           b - literal
+***************************************************************************************************************************************************************      
+       Q1.Rules of declaring variable?
+
+        -> Letter, Digits, underscores & $ sign allowed.
+
+        ->Must begin with a $, _ or a letter.
+
+        ->javascript reserved words cannot be used as a variable name.
+                    example:- var alert = "Warning";
+                              //This is wrong.
+        
+        -> Harry & harry are different variables (case sensitive).
+***************************************************************************************************************************************************************      
+
